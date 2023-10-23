@@ -22,3 +22,7 @@
 4. git commit -m "하고싶은 내용 적기"
 
 - 파일에 대한 내용 커밋하는 명령어
+
+5. git branch -M main
+
+6. git log
