@@ -26,3 +26,14 @@
 5. git branch -M main
 
 6. git log
+
+7. git remote add origin <원격저장소 주소>
+
+- github에서 저장소를 만들고 등록하는 명령어
+
+8. git push -u origin <브랜치명>
+
+<!-- * git push -u origin main -->
+<!-- * git push -u 최초작업시 설정해두면 다음 작업부터는 생략 가능 -->
+
+- 원격저장소에 로컬 소스를 실제로 반영하는 명령어
