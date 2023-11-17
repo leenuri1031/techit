@@ -57,12 +57,8 @@
   // 어떠한 구분없이 합쳐짐
 
   // * sort() : 원본 배열의 요소를 적절하게 정렬해 반환 하는 함수
-  console.log(mbti.sort());
+  // console.log(mbti.sort());
   // 알파벳 순서대로 배열 정렬 - 기본적으로 오름차순으로 정렬됨
 
-  // * reverse()
-
-
-  // *
-
-    
+  // * reverse() : 배열 순서를 역순으로 정렬하는 함수
+  console.log(mbti.sort().reverse());
